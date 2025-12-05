@@ -1,0 +1,5 @@
+[
+  {"id": "r1", "text": "Python fundamentals: variables, control flow, functions, and basic data structures. Recommended for beginners interested in data or backend work."},
+  {"id": "r2", "text": "React and frontend: components, hooks, state management, and single-page application patterns. Good for building interactive UIs."},
+  {"id": "r3", "text": "Data analysis resources: pandas, SQL, data visualization using matplotlib or seaborn. Emphasize projects and portfolios."}
+]

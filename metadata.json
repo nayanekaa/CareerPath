@@ -1,0 +1,5 @@
+{
+  "name": "CareerPath AI",
+  "description": "A personalized career roadmap generator that analyzes your resume against target roles to identify skill gaps and create a study plan.",
+  "requestFramePermissions": []
+}

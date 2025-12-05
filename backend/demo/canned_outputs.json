@@ -1,0 +1,12 @@
+{
+  "analysis": {
+    "parsed": {"summary":"Demo candidate with Python and SQL experience.", "skills":["Python","SQL"]},
+    "matches": [{"role":"Data Analyst","matchScore":85,"reason":"High overlap"}],
+    "retrieved": [{"id":"r1","text":"Python fundamentals...","score":0.9}],
+    "draft": "Draft roadmap (demo): Weeks 1-4 learn Python basics [r1]...",
+    "critique": "Critique: clarify project tasks.",
+    "final": "Final roadmap (demo): Weeks 1-4 focus on Python fundamentals [r1], Weeks 5-8 build data projects [r3]...",
+    "verification": [{"url":"https://example.com/python","ok":true,"status":200}]
+  },
+  "recommendations": {"recommendations": [{"role":"Data Analyst","matchScore":85,"reason":"Demo match"}]}
+}
